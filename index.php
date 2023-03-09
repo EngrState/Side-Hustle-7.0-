@@ -1,9 +1,6 @@
 <?php
-//variable 
-$learn = "constant learning can will improve durability and perfection by ";
+//name declaration
+$name = "my name is engr State";
 echo $learn;
-// defining a constant;
 
-define("Name", "ENGR STATE");
-echo Name;
 ?>
